@@ -1,0 +1,1 @@
+<?= 'This is a shorthand echo statement in PHP'; ?>
